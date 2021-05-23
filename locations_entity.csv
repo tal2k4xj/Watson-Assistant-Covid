@@ -1,0 +1,249 @@
+location,Afghanistan,AF
+location,Åland Islands,AX
+location,Albania,AL
+location,Algeria,DZ
+location,American Samoa,AS
+location,Andorra,AD
+location,Angola,AO
+location,Anguilla,AI
+location,Antarctica,AQ
+location,Antigua and Barbuda,AG
+location,Argentina,AR
+location,Armenia,AM
+location,Aruba,AW
+location,Australia,AU
+location,Austria,AT
+location,Azerbaijan,AZ
+location,Bahamas,BS
+location,Bahrain,BH
+location,Bangladesh,BD
+location,Barbados,BB
+location,Belarus,BY
+location,Belgium,BE
+location,Belize,BZ
+location,Benin,BJ
+location,Bermuda,BM
+location,Bhutan,BT
+location,"Bolivia, Plurinational State of",BO
+location,"Bonaire, Sint Eustatius and Saba",BQ
+location,Bosnia and Herzegovina,BA
+location,Botswana,BW
+location,Bouvet Island,BV
+location,Brazil,BR
+location,British Indian Ocean Territory,IO
+location,Brunei Darussalam,BN
+location,Bulgaria,BG
+location,Burkina Faso,BF
+location,Burundi,BI
+location,Cambodia,KH
+location,Cameroon,CM
+location,Canada,CA
+location,Cape Verde,CV
+location,Cayman Islands,KY
+location,Central African Republic,CF
+location,Chad,TD
+location,Chile,CL
+location,China,CN
+location,Christmas Island,CX
+location,Cocos (Keeling) Islands,CC
+location,Colombia,CO
+location,Comoros,KM
+location,Congo,CG
+location,"Congo, the Democratic Republic of the",CD
+location,Cook Islands,CK
+location,Costa Rica,CR
+location,Côte d'Ivoire,CI
+location,Croatia,HR
+location,Cuba,CU
+location,Curaçao,CW
+location,Cyprus,CY
+location,Czech Republic,CZ
+location,Denmark,DK
+location,Djibouti,DJ
+location,Dominica,DM
+location,Dominican Republic,DO
+location,Ecuador,EC
+location,Egypt,EG
+location,El Salvador,SV
+location,Equatorial Guinea,GQ
+location,Eritrea,ER
+location,Estonia,EE
+location,Ethiopia,ET
+location,Falkland Islands (Malvinas),FK
+location,Faroe Islands,FO
+location,Fiji,FJ
+location,Finland,FI
+location,France,FR
+location,French Guiana,GF
+location,French Polynesia,PF
+location,French Southern Territories,TF
+location,Gabon,GA
+location,Gambia,GM
+location,Georgia,GE
+location,Germany,DE
+location,Ghana,GH
+location,Gibraltar,GI
+location,Greece,GR
+location,Greenland,GL
+location,Grenada,GD
+location,Guadeloupe,GP
+location,Guam,GU
+location,Guatemala,GT
+location,Guernsey,GG
+location,Guinea,GN
+location,Guinea-Bissau,GW
+location,Guyana,GY
+location,Haiti,HT
+location,Heard Island and McDonald Islands,HM
+location,Holy See (Vatican City State),VA
+location,Honduras,HN
+location,Hong Kong,HK
+location,Hungary,HU
+location,Iceland,IS
+location,India,IN
+location,Indonesia,ID
+location,"Iran, Islamic Republic of",IR
+location,Iraq,IQ
+location,Ireland,IE
+location,Isle of Man,IM
+location,Israel,IL
+location,Italy,IT
+location,Jamaica,JM
+location,Japan,JP
+location,Jersey,JE
+location,Jordan,JO
+location,Kazakhstan,KZ
+location,Kenya,KE
+location,Kiribati,KI
+location,"Korea, Democratic People's Republic of",KP
+location,"Korea, Republic of",KR
+location,Kuwait,KW
+location,Kyrgyzstan,KG
+location,Lao People's Democratic Republic,LA
+location,Latvia,LV
+location,Lebanon,LB
+location,Lesotho,LS
+location,Liberia,LR
+location,Libya,LY
+location,Liechtenstein,LI
+location,Lithuania,LT
+location,Luxembourg,LU
+location,Macao,MO
+location,"Macedonia, the Former Yugoslav Republic of",MK
+location,Madagascar,MG
+location,Malawi,MW
+location,Malaysia,MY
+location,Maldives,MV
+location,Mali,ML
+location,Malta,MT
+location,Marshall Islands,MH
+location,Martinique,MQ
+location,Mauritania,MR
+location,Mauritius,MU
+location,Mayotte,YT
+location,Mexico,MX
+location,"Micronesia, Federated States of",FM
+location,"Moldova, Republic of",MD
+location,Monaco,MC
+location,Mongolia,MN
+location,Montenegro,ME
+location,Montserrat,MS
+location,Morocco,MA
+location,Mozambique,MZ
+location,Myanmar,MM
+location,Namibia,NA
+location,Nauru,NR
+location,Nepal,NP
+location,Netherlands,NL
+location,New Caledonia,NC
+location,New Zealand,NZ
+location,Nicaragua,NI
+location,Niger,NE
+location,Nigeria,NG
+location,Niue,NU
+location,Norfolk Island,NF
+location,Northern Mariana Islands,MP
+location,Norway,NO
+location,Oman,OM
+location,Pakistan,PK
+location,Palau,PW
+location,"Palestine, State of",PS
+location,Panama,PA
+location,Papua New Guinea,PG
+location,Paraguay,PY
+location,Peru,PE
+location,Philippines,PH
+location,Pitcairn,PN
+location,Poland,PL
+location,Portugal,PT
+location,Puerto Rico,PR
+location,Qatar,QA
+location,Réunion,RE
+location,Romania,RO
+location,Russian Federation,RU
+location,Rwanda,RW
+location,Saint Barthélemy,BL
+location,"Saint Helena, Ascension and Tristan da Cunha",SH
+location,Saint Kitts and Nevis,KN
+location,Saint Lucia,LC
+location,Saint Martin (French part),MF
+location,Saint Pierre and Miquelon,PM
+location,Saint Vincent and the Grenadines,VC
+location,Samoa,WS
+location,San Marino,SM
+location,Sao Tome and Principe,ST
+location,Saudi Arabia,SA
+location,Senegal,SN
+location,Serbia,RS
+location,Seychelles,SC
+location,Sierra Leone,SL
+location,Singapore,SG
+location,Sint Maarten (Dutch part),SX
+location,Slovakia,SK
+location,Slovenia,SI
+location,Solomon Islands,SB
+location,Somalia,SO
+location,South Africa,ZA
+location,South Georgia and the South Sandwich Islands,GS
+location,South Sudan,SS
+location,Spain,ES
+location,Sri Lanka,LK
+location,Sudan,SD
+location,Suriname,SR
+location,Svalbard and Jan Mayen,SJ
+location,Swaziland,SZ
+location,Sweden,SE
+location,Switzerland,CH
+location,Syrian Arab Republic,SY
+location,"Taiwan, Province of China",TW
+location,Tajikistan,TJ
+location,"Tanzania, United Republic of",TZ
+location,Thailand,TH
+location,Timor-Leste,TL
+location,Togo,TG
+location,Tokelau,TK
+location,Tonga,TO
+location,Trinidad and Tobago,TT
+location,Tunisia,TN
+location,Turkey,TR
+location,Turkmenistan,TM
+location,Turks and Caicos Islands,TC
+location,Tuvalu,TV
+location,Uganda,UG
+location,Ukraine,UA
+location,United Arab Emirates,AE
+location,United Kingdom,GB
+location,United States,US
+location,United States Minor Outlying Islands,UM
+location,Uruguay,UY
+location,Uzbekistan,UZ
+location,Vanuatu,VU
+location,"Venezuela, Bolivarian Republic of",VE
+location,Viet Nam,VN
+location,"Virgin Islands, British",VG
+location,"Virgin Islands, U.S.",VI
+location,Wallis and Futuna,WF
+location,Western Sahara,EH
+location,Yemen,YE
+location,Zambia,ZM
+location,Zimbabwe,ZW

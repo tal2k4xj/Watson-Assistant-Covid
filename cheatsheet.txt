@@ -1,0 +1,24 @@
+
+# Copy and replace the credentials below: #
+
+
+# Credentials for IBM Functions: #
+
+## Discovery API key ##
+api_key - "_fEAkzijXXXXXXXXXXXXXXXXXXXXXXX-FUWfO"
+
+## URL to your Discovery service instance ##
+url - "https://api.XXXX.discovery.watson.cloud.ibm.com/instances/XXXXXXXXX"
+
+## Discovery News credentials ##
+collection_id - "news-en"
+env_id - "system"
+
+## OPTIONAL !!! API key from The Weather Company ##
+twcApiKey 
+
+
+
+# Webhook URL #
+
+https://XXXXX.functions.appdomain.cloud/api/v1/web/XXX/XXX/XXX
