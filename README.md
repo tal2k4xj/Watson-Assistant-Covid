@@ -1,1 +1,1 @@
-https://developer.ibm.com/callforcode/get-started/climate-change/clean-water/
+https://developer.ibm.com/tutorials/crisis-communication-chatbot-watson-assistant-webhook-integration-discovery-covid-data/
