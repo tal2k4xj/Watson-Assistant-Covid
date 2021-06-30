@@ -150,7 +150,7 @@ async function main(params) {
 
     const queryResponse = await discovery.query(queryParams);
     myresults = "Here are some latest news we found about Covid: \n";
-    queryResponse.result.results.forEach(element => myresults += "\nTitle: "+ element.title +"\nText: "+ element.text +"\nURL: "+ element.url +"/n");
+    queryResponse.result.results.forEach(element => myresults += "\nTitle: "+ element.title +"\nText: "+ element.text +"\nURL: "+ element.url +"\n");
      
     return {
         result: myresults,
