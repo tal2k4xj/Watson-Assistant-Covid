@@ -5,10 +5,10 @@
 # Credentials for IBM Functions: #
 
 ## Discovery API key ##
-api_key - "_fEAkzijXXXXXXXXXXXXXXXXXXXXXXX-FUWfO"
+api_key - "bnvCmQXXXXXXXXXXXXXXXXXXXXXXXXXXXXb"
 
 ## URL to your Discovery service instance ##
-url - "https://api.XXXX.discovery.watson.cloud.ibm.com/instances/XXXXXXXXX"
+url - "https://api.XXXX.discovery.watson.cloud.ibm.com/instances/XXXXXXXXXXXXXXX"
 
 ## Discovery News credentials ##
 collection_id - "news-en"
